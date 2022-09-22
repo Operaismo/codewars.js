@@ -1,0 +1,4 @@
+.commitlintrc.json
+node_modules/
+.husky/
+.versionrc.json

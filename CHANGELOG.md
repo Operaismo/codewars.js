@@ -7,7 +7,7 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### Features
 
-* completed quarterOf and countBy 8kyu ([712ecf6](https://github.com/Operaismo/codewars.js/commits/712ecf6e3b2d94430360f5fed99f07bd54e05d65))
+* implemented quarterOf and countBy 8kyu ([712ecf6](https://github.com/Operaismo/codewars.js/commits/712ecf6e3b2d94430360f5fed99f07bd54e05d65))
 * implemented alphabetPosition 6kyu ([0f6a3ee](https://github.com/Operaismo/codewars.js/commits/0f6a3ee0b8c67dabe034d5497205302d76f8cd85))
 * implemented bug in apple 7kyu ([e1483cb](https://github.com/Operaismo/codewars.js/commits/e1483cb51ee0f71d2a5a97dfeed13fe6833a550a))
 * implemented cockroachSpeed 8kyu ([e706c55](https://github.com/Operaismo/codewars.js/commits/e706c5565dd86f68668200229a4ec8e5b5eeaaa2))

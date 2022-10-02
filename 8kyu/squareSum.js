@@ -1,3 +1,3 @@
 function squareSum(numbers){
-  return numbers.reduce((total, current) => total + current**2, 0);
+  return numbers.map(n => n **2).reduce((a, b) => a + b, 0);
 }

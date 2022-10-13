@@ -2,6 +2,31 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.1](https://github.com/Operaismo/codewars.js/compare/v1.1.0...v1.1.1) (2022-10-13)
+
+
+### Features
+
+* implemented areYouPlayingBanjo 8kyu ([181f1bb](https://github.com/Operaismo/codewars.js/commits/181f1bb4e493594f42671c4300e8e4d36e92e84f))
+* implemented arrayDiff 6kyu ([49be370](https://github.com/Operaismo/codewars.js/commits/49be3701e2a198c05c9a118ac1370139d5a2943c))
+* implemented basicOp 8kyu ([8d96189](https://github.com/Operaismo/codewars.js/commits/8d9618978e39cd592a1c609380f05ca3a779a25c))
+* implemented bmi 8kyu ([8fb955e](https://github.com/Operaismo/codewars.js/commits/8fb955e457fd50252050db28191e01e7a47df510))
+* implemented duplicateEncode, squareSum, and pigIt ([dee1187](https://github.com/Operaismo/codewars.js/commits/dee11875ac40d2b2c619f732dc91f494209cd628))
+* implemented eachCons 8kyu ([9fd584e](https://github.com/Operaismo/codewars.js/commits/9fd584e7a6efdc5e8de9553b0a85db2aff09a2ba))
+* implemented findAverage 8kyu ([379aab4](https://github.com/Operaismo/codewars.js/commits/379aab44a3b378fe67a8238c666050fd261934b0))
+* implemented makeNegative 8kyu ([12dbc33](https://github.com/Operaismo/codewars.js/commits/12dbc33603b393159ad7c440f84f9ef580c312e3))
+* implemented moveZeros 5kyu ([55e8e73](https://github.com/Operaismo/codewars.js/commits/55e8e73302369d9f3b3f14c849ebf428052330f3))
+* implemented oddOrEven 7kyu ([8f2bacb](https://github.com/Operaismo/codewars.js/commits/8f2bacbb4d4ab96950303095c91afed4f00d08c0))
+* implemented seriesSum 7kyu ([26cda87](https://github.com/Operaismo/codewars.js/commits/26cda87e08a1f9167ee76136133289f1e450b00c))
+* implemented simpleMultiplication 8kyu ([0e54bb1](https://github.com/Operaismo/codewars.js/commits/0e54bb1241d9c1b2a0946bc17b56b4193e809f05))
+* implemented stringToArray 8kyu ([51061ca](https://github.com/Operaismo/codewars.js/commits/51061ca84c46201e9252564587b85081be3d5dea))
+* implemented triangles, defuseTheBombs, multiplicationTable, scramble, and amIWilson ([057ba31](https://github.com/Operaismo/codewars.js/commits/057ba3139baebb0d232ec4226ca7daaee37f8160))
+
+
+### Bug Fixes
+
+* fixed an issue where 's' variable wasn't properly storing result ([90e25da](https://github.com/Operaismo/codewars.js/commits/90e25da554a7de4961c9955726568091ee7c63c6))
+
 ## [1.1.0](https://github.com/Operaismo/codewars.js/compare/v1.0.0...v1.1.0) (2022-09-29)
 
 

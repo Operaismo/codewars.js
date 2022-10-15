@@ -2,6 +2,22 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.2](https://github.com/Operaismo/codewars.js/compare/v1.1.1...v1.1.2) (2022-10-15)
+
+
+### Features
+
+* implemented giveMeFive 8kyu ([aaebb48](https://github.com/Operaismo/codewars.js/commits/aaebb488b3bcb5bfaf254e64512c663349dca1ef))
+* implemented pickIt 8kyu ([f78b292](https://github.com/Operaismo/codewars.js/commits/f78b2924d66d042996e084b7c3d2f569fd14868f))
+* implemented strCount 8kyu ([e4c958b](https://github.com/Operaismo/codewars.js/commits/e4c958b08a66370ae7feb6eb702c53305106f4a0))
+* improved solution for noSpace 8kyu ([c53f21c](https://github.com/Operaismo/codewars.js/commits/c53f21c2794fbe3d68b543f2e1755654f9915db6))
+* refactored removeChar.js ([5f5ab37](https://github.com/Operaismo/codewars.js/commits/5f5ab3713fc960a88f5d0a3bce8a56c97019f32c))
+
+
+### Bug Fixes
+
+* fixed an issue where indexes instead of elements were pushed into the odd/even array ([4e2cb79](https://github.com/Operaismo/codewars.js/commits/4e2cb79ca426b0526d72b02377a9278cca94f513))
+
 ### [1.1.1](https://github.com/Operaismo/codewars.js/compare/v1.1.0...v1.1.1) (2022-10-13)
 
 

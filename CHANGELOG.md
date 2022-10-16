@@ -2,6 +2,26 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.4](https://github.com/Operaismo/codewars.js/compare/v1.1.2...v1.1.4) (2022-10-16)
+
+
+### Features
+
+* changed stringToNumber ([2ae19a5](https://github.com/Operaismo/codewars.js/commits/2ae19a525791fedb35acdd29aa0d7f03022f70d4))
+* implemented betterThanAverage 8kyu ([f4a90c0](https://github.com/Operaismo/codewars.js/commits/f4a90c04707666d0b30ca30ef3d9c176450a1209))
+* implemented correct 8kyu ([1582ef8](https://github.com/Operaismo/codewars.js/commits/1582ef8fa94485dbc27b4b3b9d047fea27293d7c))
+* implemented friend 7kyu ([159e2c8](https://github.com/Operaismo/codewars.js/commits/159e2c87a2cff660a5250aefaea2418984d8f821))
+* implemented getAge 8kyu ([7a6b0cb](https://github.com/Operaismo/codewars.js/commits/7a6b0cb25f532f7e2f26044040c9da1fa1e1542c))
+* implemented getVolumeOfCuboid 8kyu ([27b11bd](https://github.com/Operaismo/codewars.js/commits/27b11bdbf8d5cece92ca5ea9b5cc5da5ca326195))
+* implemented grow 8kyu ([0249602](https://github.com/Operaismo/codewars.js/commits/0249602c35fce8b62b75030ae660532c8398f0af))
+* implemented howMuchILoveYou 8kyu ([ce27203](https://github.com/Operaismo/codewars.js/commits/ce272034d33566992f9e10c21085c62346bb448a))
+* implemented maxAndMinValues 8kyu ([d175a13](https://github.com/Operaismo/codewars.js/commits/d175a13975b6674af5abafc1b246de8401afcac9))
+* implemented reverseSeq 8kyu ([3c5f768](https://github.com/Operaismo/codewars.js/commits/3c5f7683a12c800be8b921d840a55fccfccb1105))
+* implemented sumMix 8kyu ([ddfad23](https://github.com/Operaismo/codewars.js/commits/ddfad238054a449bbf91bcf1d4f4136a2d0f7130))
+* implemented toAlternatingCase ([f2b8ffa](https://github.com/Operaismo/codewars.js/commits/f2b8ffa03eec6cf491ef6ccf03aa9f9389dc1176))
+* implemented twiceAsOld 8kyu ([52e95d7](https://github.com/Operaismo/codewars.js/commits/52e95d72d997946a3e5eb2393313cfdcda01bcd8))
+* removed unnecessary console.log in sumMix ([62c2b25](https://github.com/Operaismo/codewars.js/commits/62c2b251fa2feed7e251b0f27537f4f24fcba4c0))
+
 ### [1.1.3](https://github.com/Operaismo/codewars.js/compare/v1.1.2...v1.1.3) (2022-10-15)
 
 

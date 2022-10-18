@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.5](https://github.com/Operaismo/codewars.js/compare/v1.1.4...v1.1.5) (2022-10-18)
+
+
+### Features
+
+* implemented countSheeps 8kyu ([356dc64](https://github.com/Operaismo/codewars.js/commits/356dc64174983a16cf8f79288aff65e1e3c1fb88))
+* implemented domainName 5kyu ([1efbf77](https://github.com/Operaismo/codewars.js/commits/1efbf775b40c06893c1adad237f94d95ec22dd6f))
+* implemented goals 8kyu ([996bc13](https://github.com/Operaismo/codewars.js/commits/996bc130a6df875ef5106d9b520ad35fed05a24a))
+* implemented stray 7kyu ([0d9e448](https://github.com/Operaismo/codewars.js/commits/0d9e448de8c3dd1489d060d3a9b9891c5eca52ed))
+* implemented welcome 8kyu ([893fb7f](https://github.com/Operaismo/codewars.js/commits/893fb7fd7f3a573e664acd185071e6b083c42d25))
+
+
+### Bug Fixes
+
+* moved domainName to 5kyu directory ([82cd94e](https://github.com/Operaismo/codewars.js/commits/82cd94e48474d0e7a6da6f7e234bc919923f98bf))
+* refactored order 6kyu for readability ([3dc50f4](https://github.com/Operaismo/codewars.js/commits/3dc50f4b68514eb7952563207c844a5b31d2dc24))
+
 ### [1.1.4](https://github.com/Operaismo/codewars.js/compare/v1.1.2...v1.1.4) (2022-10-16)
 
 

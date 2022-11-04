@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.7](https://github.com/Operaismo/codewars.js/compare/v1.1.6...v1.1.7) (2022-11-04)
+
+
+### Features
+
+* implemented expressionMatter 8kyu ([d6aa32e](https://github.com/Operaismo/codewars.js/commits/d6aa32e4bdcc026aa2bcc1fc5475712f33706359))
+* implemented findMultiples 8kyu ([01302d1](https://github.com/Operaismo/codewars.js/commits/01302d17c37700910848e1d056d250996f7c8436))
+* implemented pipeFix 8kyu ([94dca4e](https://github.com/Operaismo/codewars.js/commits/94dca4e151686fd078cd55ec7c43d7fba2b099cc))
+* implemented remove 8kyu ([40b91fb](https://github.com/Operaismo/codewars.js/commits/40b91fbb03e9365d10f1d85f5a9d9508b8b9b166))
+* implemented removeEveryOther 8kyu ([6517c0e](https://github.com/Operaismo/codewars.js/commits/6517c0e0fbfafb3f6ed706098b7457f0756faf5f))
+* implemented rentalCarCost 8kyu ([02a6fb3](https://github.com/Operaismo/codewars.js/commits/02a6fb397c22a09c513988f28954287705aec8f0))
+* implemented sortByLength 7kyu ([48db1aa](https://github.com/Operaismo/codewars.js/commits/48db1aa996d5d3f697bb7d9ab225861b650d22e9))
+* implemented sortNumbers 7kyu ([5f606da](https://github.com/Operaismo/codewars.js/commits/5f606daaffeb1a3494f92c2ea375421050aa0e52))
+* implemented validatePIN 7kyu ([a57c631](https://github.com/Operaismo/codewars.js/commits/a57c6312351bdb1e59d98738a5fd404162d6e598))
+
 ### [1.1.6](https://github.com/Operaismo/codewars.js/compare/v1.1.5...v1.1.6) (2022-10-30)
 
 

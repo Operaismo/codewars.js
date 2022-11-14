@@ -1,3 +1,3 @@
-function SubtractSum(n){
+function SubtractSum(n) {
   return 'apple';
 }

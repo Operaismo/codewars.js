@@ -16,4 +16,4 @@ I refactor and optimize my code, for efficiency, readability, and best practices
 
 ## Lessons Learned:
 
-The Biggest Lesson I learned in tackling this endless supply of questions is understanding that there is a long way to go. Not being able to answer a question is okay, as long as you take the initiative to improve.
+Consistency is key. By committing to daily Codewars, I notice my solve time decreasing substantially. Also, by practicing good speaking and presentation habits on OBS, I solidify best practices when I am in a high-pressure situation.

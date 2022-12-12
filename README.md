@@ -16,4 +16,4 @@ I refactor and optimize my code, for efficiency, readability, and best practices
 
 ## Lessons Learned:
 
-Consistency is key. By committing to daily Codewars, I notice my solve time decreasing substantially. Also, by practicing good speaking and presentation habits on OBS, I solidify best practices when I am in a high-pressure situation.
+Consistency is key. By committing to daily Codewars, I notice my solve time decreasing substantially. Also, by practicing good speaking and presentation habits on OBS, I acclimate myself to high-pressure situations.

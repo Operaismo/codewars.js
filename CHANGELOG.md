@@ -2,6 +2,48 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.7](https://github.com/Operaismo/codewars.js/compare/v1.1.6...v1.1.7) (2022-11-04)
+
+
+### Features
+
+* implemented expressionMatter 8kyu ([d6aa32e](https://github.com/Operaismo/codewars.js/commits/d6aa32e4bdcc026aa2bcc1fc5475712f33706359))
+* implemented findMultiples 8kyu ([01302d1](https://github.com/Operaismo/codewars.js/commits/01302d17c37700910848e1d056d250996f7c8436))
+* implemented pipeFix 8kyu ([94dca4e](https://github.com/Operaismo/codewars.js/commits/94dca4e151686fd078cd55ec7c43d7fba2b099cc))
+* implemented remove 8kyu ([40b91fb](https://github.com/Operaismo/codewars.js/commits/40b91fbb03e9365d10f1d85f5a9d9508b8b9b166))
+* implemented removeEveryOther 8kyu ([6517c0e](https://github.com/Operaismo/codewars.js/commits/6517c0e0fbfafb3f6ed706098b7457f0756faf5f))
+* implemented rentalCarCost 8kyu ([02a6fb3](https://github.com/Operaismo/codewars.js/commits/02a6fb397c22a09c513988f28954287705aec8f0))
+* implemented sortByLength 7kyu ([48db1aa](https://github.com/Operaismo/codewars.js/commits/48db1aa996d5d3f697bb7d9ab225861b650d22e9))
+* implemented sortNumbers 7kyu ([5f606da](https://github.com/Operaismo/codewars.js/commits/5f606daaffeb1a3494f92c2ea375421050aa0e52))
+* implemented validatePIN 7kyu ([a57c631](https://github.com/Operaismo/codewars.js/commits/a57c6312351bdb1e59d98738a5fd404162d6e598))
+
+### [1.1.6](https://github.com/Operaismo/codewars.js/compare/v1.1.5...v1.1.6) (2022-10-30)
+
+
+### Features
+
+* implemented areaOrPerimeter and DNAtoRNA 8kyu and DirReduc 5kyu ([725b03c](https://github.com/Operaismo/codewars.js/commits/725b03c9afc1087b7a969676225ee73653e2c349))
+* implemented between 8kyu ([dedf061](https://github.com/Operaismo/codewars.js/commits/dedf0615a8f6e4d95bf67401f0a7f48933012f68))
+* implemented century 8kyu ([52b0f2a](https://github.com/Operaismo/codewars.js/commits/52b0f2a75b30ff71a27bf09463986584d4011157))
+* implemented findDifference 8kyu ([e393667](https://github.com/Operaismo/codewars.js/commits/e393667c664679a1863cb3cc6719868fe42ca5c5))
+* implemented findUniq 6kyu ([50d7df3](https://github.com/Operaismo/codewars.js/commits/50d7df359efc1037d6bba3b608546a24d18524fb))
+* implemented helloWorld 8kyu ([46236e9](https://github.com/Operaismo/codewars.js/commits/46236e94f6bd11e5427238fbd387a684cb700e2a))
+* implemented humanYearCatYearDogYear 8kyu ([1eda53a](https://github.com/Operaismo/codewars.js/commits/1eda53a81c1a31cf15f914d2e4162d39e3b0783c))
+* implemented isPalindrome 8kyu ([e33b44e](https://github.com/Operaismo/codewars.js/commits/e33b44ee717b249872100a4a1fe9db5f64ebd5cf))
+* implemented map 8kyu ([9265c22](https://github.com/Operaismo/codewars.js/commits/9265c224d47ff0debe2b390e2c39db71977b37c2))
+* implemented otherAngle 8kyu ([18b1247](https://github.com/Operaismo/codewars.js/commits/18b1247603fcdf736aa1879ae83bea68047edbc1))
+* implemented rps 8kyu ([3a8ca70](https://github.com/Operaismo/codewars.js/commits/3a8ca704057e0b06670cab0cee05963a083cbb5e))
+* implemented sortAndStar 8kyu ([9b1e055](https://github.com/Operaismo/codewars.js/commits/9b1e0552d518e50fb6f7972b3f7d3eac442be16d))
+* implemented square 8kyu ([9e9daea](https://github.com/Operaismo/codewars.js/commits/9e9daea3ded02131626a8f4c33d0ea941246ed83))
+* implemented updateLight 8kyu ([3cb469f](https://github.com/Operaismo/codewars.js/commits/3cb469f7484fcde4ceddab889d97908ed914c1cf))
+
+
+### Bug Fixes
+
+* refactored quarterOf for conciseness ([0b51629](https://github.com/Operaismo/codewars.js/commits/0b516293132522f406b9f80fcd3996d5be9cb657))
+* reformatted descendingOrder with Prettier ([e6157b3](https://github.com/Operaismo/codewars.js/commits/e6157b399f51da7dfad2d6ee66e3a06468caf841))
+* reformatted updateLight with Prettier ([ed10db5](https://github.com/Operaismo/codewars.js/commits/ed10db5f08814e44273c4d9e64c93a2f215441a2))
+
 ### [1.1.5](https://github.com/Operaismo/codewars.js/compare/v1.1.4...v1.1.5) (2022-10-18)
 
 

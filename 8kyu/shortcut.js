@@ -1,3 +1,3 @@
-function shortcut(string) {
+function shortcut (string) {
   return string.replace(/[aeiou]/gi, '');
 }

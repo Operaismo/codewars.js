@@ -6,11 +6,11 @@ class Person {
     this.gender = gender;
   }
 
-  sayFullName(){
+  sayFullName() {
     return this.firstName + " " + this.lastName;
   }
 
-  static greetExtraTerrestrials(raceName){
+  static greetExtraTerrestrials(raceName) {
     return `Welcome to Planet Earth ${raceName}`;
   }
 }

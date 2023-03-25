@@ -2,6 +2,28 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.2.1](https://github.com/Operaismo/codewars.js/compare/v1.2.0...v1.2.1) (2023-03-25)
+
+
+### Features
+
+* implemented aspectRatio 8kyu ([8bf5fa6](https://github.com/Operaismo/codewars.js/commits/8bf5fa64b18fc75e684005b7d818083bcff2ceea))
+* implemented Cat 8kyu ([eff787b](https://github.com/Operaismo/codewars.js/commits/eff787b53649a15d2c7e5152922b562ba855a63c))
+* implemented changeMe 8kyu ([fe431d7](https://github.com/Operaismo/codewars.js/commits/fe431d72aee4e012c51cee363de3189525f152e7))
+* implemented dBScale 8kyu ([84f29f5](https://github.com/Operaismo/codewars.js/commits/84f29f5d40ee1e6324209f64d8255d0a4c6657cf))
+* implemented defineSuit 8kyu ([c5d885e](https://github.com/Operaismo/codewars.js/commits/c5d885e0c70653e5e169b4df51e699472b73544e))
+* implemented howManyDalmations 8kyu ([d07957d](https://github.com/Operaismo/codewars.js/commits/d07957d80030bef9cbbbf8e029082661b26ea450))
+* implemented ifChuckSaysSo 8kyu ([995edaf](https://github.com/Operaismo/codewars.js/commits/995edaf575e78b8d2c032f91149c718bab3ce6ee))
+* implemented joinStrings 8kyu ([9d92a22](https://github.com/Operaismo/codewars.js/commits/9d92a2268f2a41052f3af3b9d1bb3d9f48feb194))
+* implemented magNumber 8kyu ([de89427](https://github.com/Operaismo/codewars.js/commits/de89427c7dbe41e0d2d7fe87d8cd49da393f6a88))
+* implemented mathOperations 8kyu ([2639d25](https://github.com/Operaismo/codewars.js/commits/2639d25936498d1d399545342f000138979ae308))
+* implemented periodIsLate 8kyu ([f170292](https://github.com/Operaismo/codewars.js/commits/f17029213328823c00979968d9211591fcec9bca))
+* implemented plural 8kyu ([0a88169](https://github.com/Operaismo/codewars.js/commits/0a881694925c312ecc779ed9498330dfa3ccecbe))
+* implemented sayHello 8kyu ([103a475](https://github.com/Operaismo/codewars.js/commits/103a475427f3433c93e9a13bb6746992638817ba))
+* implemented stringClean 8kyu ([9e2a511](https://github.com/Operaismo/codewars.js/commits/9e2a511af279d6713de2a4e140c0e8e9a0cb4aa2))
+* implemented stringy 8kyu ([3012e3e](https://github.com/Operaismo/codewars.js/commits/3012e3e01a9aaa5a8af14a6b354b1ee8dd058d9e))
+* implemented toFreud 8kyu ([0478e54](https://github.com/Operaismo/codewars.js/commits/0478e540208e1fa838cfafad189dbb7a3ee98b1a))
+
 ## [1.2.0](https://github.com/Operaismo/codewars.js/compare/v1.1.7...v1.2.0) (2023-03-05)
 
 

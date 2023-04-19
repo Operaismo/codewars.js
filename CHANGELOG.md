@@ -2,6 +2,22 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/Operaismo/codewars.js/compare/v1.2.1...v1.3.0) (2023-04-19)
+
+
+### Features
+
+* implemented animals 8kyu ([8dec172](https://github.com/Operaismo/codewars.js/commit/8dec17222c078b2bfb6b60e86feb2a718fa2a4d6))
+* implemented cannonsReady 8kyu ([7e18406](https://github.com/Operaismo/codewars.js/commit/7e18406fa0b41ad7373ebe534d7d50adeb9fe73d))
+* implemented hello 8kyu ([e234695](https://github.com/Operaismo/codewars.js/commit/e234695c8f07013e51eaca6dbffba10a3d365838))
+* implemented isToday 8kyu ([f527e12](https://github.com/Operaismo/codewars.js/commit/f527e12b366405b30c0a08a7aae1dba617ecf96c))
+* implemented quadrant 8kyu ([1700504](https://github.com/Operaismo/codewars.js/commit/17005042cd6508c8d6d5723a40c593a02470f1ef))
+* implemented sixToast 8kyu ([ada5b8c](https://github.com/Operaismo/codewars.js/commit/ada5b8c2b26443df2dc2b7e8bc049e4fb9f01193))
+* implemented symmetricPoint 8kyu ([00580ff](https://github.com/Operaismo/codewars.js/commit/00580ff0cb045fe91dfac6324552f519f53549d3))
+* implemented take 8kyu ([da72538](https://github.com/Operaismo/codewars.js/commit/da725387b0661b79a435fa6e64ac4e3d5bafcb90))
+* implemented usdcny 8kyu ([e4877ec](https://github.com/Operaismo/codewars.js/commit/e4877ec9c41c5a9bb3b0a3a9c2b0c97dd3863178))
+* implemented wrap 8kyu ([8eeaaae](https://github.com/Operaismo/codewars.js/commit/8eeaaaed321998ece1e39949761ab07ed3dc8df6))
+
 ### [1.2.1](https://github.com/Operaismo/codewars.js/compare/v1.2.0...v1.2.1) (2023-03-25)
 
 

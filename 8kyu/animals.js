@@ -1,4 +1,4 @@
-// animals 8kyu
+// animals 8kyu!
 function animals(heads, legs){
     const cows = legs / 2 - heads;
     const chickens = heads - cows;

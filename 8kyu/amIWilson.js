@@ -1,5 +1,5 @@
 // amIWilson 8kyu!
-// return primes
+// Return primes
 function amIWilson(p) {
   return [5, 13, 563].indexOf(p) > -1;
 }
